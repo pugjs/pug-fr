@@ -1,0 +1,28 @@
+{
+  "menu": {
+    "api": "API",
+    "api/getting-started": "Démarrer",
+    "api/express": "Intégration dans Express",
+    "api/reference": "Référence",
+    "api/migration-v2": "Migration vers Pug 2",
+    "language": "Référence du language",
+    "language/attributes": "Attributs",
+    "language/case": "Case",
+    "language/code": "Code",
+    "language/comments": "Commentaires",
+    "language/conditionals": "Conditions",
+    "language/doctype": "Doctype",
+    "language/filters": "Filtres",
+    "language/includes": "Includes",
+    "language/inheritance": "Héritage: Extends et Block",
+    "language/interpolation": "Interpolation",
+    "language/iteration": "Itération",
+    "language/mixins": "Mixins",
+    "language/plain-text": "Text brut",
+    "language/tags": "Balises"
+  },
+  "navbar": {
+    "docs": "Documentations",
+    "demo": "Démo"
+  }
+}
